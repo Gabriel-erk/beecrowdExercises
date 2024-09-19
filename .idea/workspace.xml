@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowdExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoUm/Bee1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoUm/Bee1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoUm/Bee1003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoUm/Bee1004.java" afterDir="false" />
+    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="recriando repositório usando a IDE intelliJ">
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee2006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +23,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Gabriel-erk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gabriel-erk/beecrowdExercises.git",
+    "accountId": "55cf8795-6bc4-40d5-8306-f96b393e481e"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2mIo4lcOi7NgLPsYaMrLz2mJZj8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,13 +51,15 @@
   "keyToString": {
     "Application.Bee1001.executor": "Run",
     "Application.Bee1004.executor": "Run",
+    "Application.Bee2006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bee1004">
+  <component name="RunManager" selected="Application.Bee2006">
     <configuration name="Bee1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gabriel.estudosJava.exercicios.secaoUm.Bee1001" />
       <module name="beecrowdExercises" />
@@ -76,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bee2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gabriel.estudosJava.exercicios.secaoTres.Bee2006" />
+      <module name="beecrowdExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gabriel.estudosJava.exercicios.secaoTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bee2006" />
         <item itemvalue="Application.Bee1004" />
         <item itemvalue="Application.Bee1001" />
       </list>
@@ -92,6 +116,30 @@
       <option name="presentableId" value="Default" />
       <updated>1726773261376</updated>
     </task>
+    <task id="LOCAL-00001" summary="recriando repositório usando a IDE intelliJ">
+      <option name="closed" value="true" />
+      <created>1726773991535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726773991535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recriando repositório usando a IDE intelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="recriando repositório usando a IDE intelliJ" />
   </component>
 </project>
