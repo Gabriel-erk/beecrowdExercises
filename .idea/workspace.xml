@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="recriando repositório usando a IDE intelliJ">
-      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee2006.java" afterDir="false" />
+    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="adicionando item ao git ignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1042.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1042.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,22 +23,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Gabriel-erk"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gabriel-erk&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Gabriel-erk/beecrowdExercises.git",
-    "accountId": "55cf8795-6bc4-40d5-8306-f96b393e481e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gabriel-erk/beecrowdExercises.git&quot;,
+    &quot;accountId&quot;: &quot;05027e33-89ac-4dd5-9f71-c7498e4302cc&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mIo4lcOi7NgLPsYaMrLz2mJZj8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,15 +54,16 @@
   "keyToString": {
     "Application.Bee1001.executor": "Run",
     "Application.Bee1004.executor": "Run",
+    "Application.Bee1042.executor": "Run",
     "Application.Bee2006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Bee2006">
+  <component name="RunManager" selected="Application.Bee1042">
     <configuration name="Bee1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gabriel.estudosJava.exercicios.secaoUm.Bee1001" />
       <module name="beecrowdExercises" />
@@ -86,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Bee1042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gabriel.estudosJava.exercicios.secaoTres.Bee1042" />
+      <module name="beecrowdExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gabriel.estudosJava.exercicios.secaoTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bee2006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gabriel.estudosJava.exercicios.secaoTres.Bee2006" />
       <module name="beecrowdExercises" />
@@ -101,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bee1042" />
         <item itemvalue="Application.Bee2006" />
         <item itemvalue="Application.Bee1004" />
         <item itemvalue="Application.Bee1001" />
@@ -124,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726773991535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="recriando repositório usando a IDE intelliJ">
+      <option name="closed" value="true" />
+      <created>1726951485144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726951485144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adicionando item ao git ignore">
+      <option name="closed" value="true" />
+      <created>1726955073880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726955073880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +173,20 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
     <MESSAGE value="recriando repositório usando a IDE intelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="recriando repositório usando a IDE intelliJ" />
+    <MESSAGE value="adicionando item ao git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicionando item ao git ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1042.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
