@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="realizando exercicio" />
+    <list default="true" id="6965f5d1-47bc-40a2-8de9-464244288ed8" name="Changes" comment="concluindo troca de repositórios, passando exercicios para este repositorio">
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoDois/Bee1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gabriel/estudosJava/exercicios/secaoTres/Bee1040.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726967139823</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adicionando arquivo conflitante ao gitignore">
+      <option name="closed" value="true" />
+      <created>1726967267719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726967267719</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +206,9 @@
     <MESSAGE value="recriando repositório usando a IDE intelliJ" />
     <MESSAGE value="adicionando item ao git ignore" />
     <MESSAGE value="realizando exercicio" />
-    <option name="LAST_COMMIT_MESSAGE" value="realizando exercicio" />
+    <MESSAGE value="adicionando arquivo conflitante ao gitignore" />
+    <MESSAGE value="concluindo troca de repositórios, passando exercicios para este repositorio" />
+    <option name="LAST_COMMIT_MESSAGE" value="concluindo troca de repositórios, passando exercicios para este repositorio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
